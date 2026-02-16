@@ -8,7 +8,7 @@ Shared to document my learning journey and early interest in system design, game
 
 ---
 
-## 🧠 Context
+## Context
 
 At the time, many players used automation tools to farm in-game rewards by leaving their characters working for long periods of time.
 
@@ -22,7 +22,7 @@ to understand how such systems can be designed and implemented on the server sid
 
 ---
 
-## 🛠️ What This Project Does
+## What This Project Does
 
 - Detects when a job is completed  
 - Prompts the player with a simple captcha  
@@ -31,14 +31,24 @@ to understand how such systems can be designed and implemented on the server sid
 
 ---
 
-## 🧰 Tech Stack
+## Screenshots
+
+<p align="center">
+  <img src="capture-1.png" width="300" />
+  <img src="capture-2.png" width="300" />
+  <img src="capture-3.png" width="300" />
+</p>
+
+---
+
+## Tech Stack
 
 - PawnScript  
 - SA-MP Server Scripting  
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Code quality is not representative of my current level  
 - This repository is kept for historical and educational purposes  
@@ -46,7 +56,7 @@ to understand how such systems can be designed and implemented on the server sid
 
 ---
 
-## 🚫 Disclaimer
+## Disclaimer
 
 This project is shared strictly for educational and historical reasons.  
 It is not intended to promote cheating, exploitation, or bypassing protections in online games.
