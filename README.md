@@ -1,13 +1,13 @@
-# Legacy PawnScript Project: Anti-AFK Captcha System (20XX)
+# Legacy PawnScript Project: Anti-AFK Captcha System
 
-> **⚠️ Historical Note:** This repository contains code developed entirely by me at the age of **16**. It represents my beginnings in programming logic and server scripting (SA-MP), long before the rise of generative AI. It is shared to document my early problem-solving skills and system design capabilities.
+> **⚠️ Historical Note:** This repository contains code developed entirely by me when I was **16 years old**. It represents my beginnings in programming logic and server scripting (SA-MP), long before the rise of generative AI. It is shared to document my early problem-solving skills and my ability to design complex systems at a young age.
 
 ---
 
 ## Project Context
 At the time, many online gaming communities (specifically SA-MP servers) faced a major challenge: users utilizing automation tools (bots) to farm in-game rewards by leaving their characters working for long periods of time.
 
-By observing the behavior of major servers from a player's perspective, I decided to **replicate and develop from scratch** a functional human verification system (Captcha). This was achieved through functional reverse engineering, without access to any external source code or proprietary implementations.
+By observing the behavior of major servers from a player's perspective, I decided to **replicate and develop from scratch** a functional human verification system (Captcha). At just 16, I achieved this through functional reverse engineering, without access to any external source code or proprietary implementations.
 
 ---
 
@@ -22,7 +22,7 @@ By observing the behavior of major servers from a player's perspective, I decide
 ## What This Project Demonstrates
 1.  **Analytical Thinking:** Identifying a systemic problem (inflation/automation) and crafting a technical solution to mitigate it.
 2.  **Event-Driven Architecture:** A deep understanding of how to handle requests, timers, and callbacks in a high-concurrency multiplayer environment.
-3.  **Foundation & Evolution:** It showcases the logical mindset and persistence I had at a young age, which served as the foundation for my professional career.
+3.  **Foundation & Evolution:** It showcases the logical mindset and persistence I possessed as a teenager, which served as the foundation for my professional career.
 
 ---
 
@@ -43,4 +43,4 @@ By observing the behavior of major servers from a player's perspective, I decide
 ---
 
 ## Disclaimer
-This project is shared strictly for **educational and historical purposes**. It does not reflect my current coding standards or best practices. It is not intended to promote cheating or the bypassing of protections, but rather to document the technical evolution of a developer.
+This project is shared strictly for **educational and historical purposes**. It reflects the work of a 16-year-old developer and does not represent my current coding standards or best practices. It is not intended to promote cheating or the bypassing of protections, but rather to document technical growth.
